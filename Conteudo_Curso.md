@@ -48,3 +48,23 @@ Traduzir páginas para outros idiomas.
 
 Nesta aula, aprendemos sobre a funcionalidade de internacionalização, que consiste em traduzir páginas para outros idiomas. Fizemos um exercício de tradução da página inicial para inglês e espanhol. Em seguida, começamos a editar a opção de tela de celular utilizando o Elementor. Exploramos opções de edição do banner e observamos diferenças entre o Figma e a prática. Também aprendemos sobre responsividade, realizando testes de ajuste de elementos em diferentes tamanhos de tela. Utilizamos o Elementor para ativar o recurso de responsividade e modificar os pontos de quebra. Na próxima aula, faremos ajustes nos elementos abaixo do banner.
 
+### Aula 03 - Ajustando página Home para celulares - Video 2
+
+Nesta aula, o instrutor ensina como ajustar elementos em uma página do WordPress para visualização em celulares. Ele explica três maneiras de editar a posição dos elementos: através do ícone de edição no título, do botão "Editar coluna" ao lado esquerdo do título e do botão "Editar seção". O instrutor também menciona a necessidade de ajustar o espaçamento entre elementos e dá dicas sobre como encontrar valores de espaçamento ocultos. Ele recomenda o uso de HTML CSS para seguir as proporções do Figma. No final, ele menciona que aprendemos como fazer ajustes responsivos e que continuará no próximo vídeo.
+
+### Aula 03 - Ajustando menu Offcanvas - Video 3
+
+menu off-canvas (nemu touch, amburguer, visivel apenas em dispositivos mobile).  
+Nesta aula, o instrutor continua os ajustes do projeto Jornada Viagens para telas de celulares. Ele aborda técnicas para organizar elementos de forma responsiva, focando em ajustes de coluna e espaçamento. O instrutor menciona a área de condições de pagamento, explicando como ajustar as laterais das imagens e alinhar duas imagens lado a lado. Ele também mostra como editar o espaçamento das laterais das imagens no Elementor. O instrutor ressalta a importância de não se preocupar em deixar o design exatamente idêntico ao do Figma, pois o WordPress ajuda a organizar elementos de forma automatizada. Ele aborda o ajuste do menu off-canvas, explicando como alterar as cores de fundo e da fonte. Por fim, o instrutor menciona os próximos passos do projeto e convida o aluno para a próxima aula, onde aprenderá sobre o modo noturno.
+
+### Aula 03 Conclusão - Nessa aula, você aprendeu como
+
+Aplicar práticas recomendadas para implementação de responsividade em um projeto Wordpress através de ajustes no Tema;
+Aplicar práticas recomendadas para implementação de responsividade em um projeto Wordpress através do Elementor.
+
+## Aula 04 - Efeitos Visuais com o WordPress
+
+### Aula 04 - Dark Mode - Video 1
+
+Nesta aula, aprendemos a aplicar o modo noturno, também conhecido como dark mode, em um projeto WordPress. Foi explicado como utilizar o plugin "WP Dark Mode" para ativar o dark mode de forma fácil e rápida, sem a necessidade de inserir código CSS diretamente no Elementor. Também vimos como personalizar a transição suave do modo noturno e alterar a posição do botão de dark mode na página. Ao final, concluímos que o modo noturno foi aplicado com sucesso no projeto.
+
