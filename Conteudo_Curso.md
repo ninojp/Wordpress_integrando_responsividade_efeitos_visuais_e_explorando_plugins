@@ -25,7 +25,26 @@ Importar um projeto wordpress.
 
 ### Aula 02 - Plugin de internacionalização - Video 1
 
-Nesta aula, o instrutor aborda a importância de realizar atualizações no WordPress e nas tecnologias relacionadas. Ele mostra como verificar e realizar as atualizações no próprio WordPress, nos plugins utilizados no projeto e no tema utilizado. O instrutor destaca a importância de manter todas as tecnologias atualizadas para aproveitar novas funcionalidades. Além disso, ele introduz o tópico de internacionalização do projeto e apresenta o plugin **Polylang**, que será utilizado para traduzir a página para outros idiomas. No próximo vídeo, serão feitas as configurações do plugin.
+Nesta aula, o instrutor aborda a importância de realizar atualizações no WordPress e nas tecnologias relacionadas. Ele mostra como verificar e realizar as atualizações no próprio WordPress, nos plugins utilizados no projeto e no tema utilizado. O instrutor destaca a importância de manter todas as tecnologias atualizadas para aproveitar novas funcionalidades. Além disso, ele introduz o tópico de internacionalização do projeto e apresenta o plugin **Polylang**, que será utilizado para traduzir a página para outros idiomas. No próximo vídeo, serão feitas as configurações do plugin.  
+Caso queira ler mais sobre o Polylang pode conferir a [documentação oficial](https://polylang.pro/doc/).
 
-### Aula 02 - Plugin de internacionalização - Video 2
+### Aula 02 - Ajustando menu - Video 2
+
+Nesta aula, o instrutor discute a configuração inicial do plugin Polylang no WordPress para criar um site multilíngue. Ele explica como instalar o plugin, definir os idiomas do projeto e configurar o idioma principal. O instrutor também mostra como duplicar manualmente as páginas e corrigir possíveis bugs com o Elementor. Por fim, ele ensina a editar a ordem dos idiomas escolhidos. No próximo vídeo, serão feitos ajustes adicionais de internacionalização.
+
+### Aula 02 - Novos ajustes de internacionalização - Video 3
+
+Nesta aula, o instrutor continua as configurações do projeto Jornada Viagens para aplicar a internacionalização. Ele explica como configurar a página inicial do site e como adicionar um seletor de idiomas ao menu. O instrutor também mostra como personalizar o menu suspenso, alterando as cores de fundo. Por fim, ele sugere o uso do Google Tradutor para traduzir o conteúdo do site.
+
+### Aula 02 Conclusão - Nessa aula, você aprendeu como
+
+Configurar Plugin Polylang para internacionalização de um projeto;
+Duplicar páginas;
+Traduzir páginas para outros idiomas.
+
+## Aula 03 - Responsividade no WordPress
+
+### Aula 03 - Responsividade com Elementor - Video 1
+
+Nesta aula, aprendemos sobre a funcionalidade de internacionalização, que consiste em traduzir páginas para outros idiomas. Fizemos um exercício de tradução da página inicial para inglês e espanhol. Em seguida, começamos a editar a opção de tela de celular utilizando o Elementor. Exploramos opções de edição do banner e observamos diferenças entre o Figma e a prática. Também aprendemos sobre responsividade, realizando testes de ajuste de elementos em diferentes tamanhos de tela. Utilizamos o Elementor para ativar o recurso de responsividade e modificar os pontos de quebra. Na próxima aula, faremos ajustes nos elementos abaixo do banner.
 
