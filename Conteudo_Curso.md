@@ -100,3 +100,5 @@ Sites Free:
 Aplicar funcionalidade de Whatsapp em um projeto Wordpress utilizando um plugin;
 Aplicar efeito visual de menu fixo na tela utilizando de plugins do Wordpress;
 Inserir código CSS adicional em um projeto em caso de ajustes necessários.
+
+Nesta aula, o instrutor parabeniza os espectadores por concluírem o curso de WordPress. Foram abordados tópicos como migração de projetos já iniciados com WordPress, exploração de recursos de plugins, como o plugin de dark mode e o plugin que mantém o menu fixo na tela. Também foi ensinado como adicionar um plugin de WhatsApp para facilitar o atendimento aos clientes. O instrutor destacou a importância das boas práticas de responsividade, utilizando o Elementor e personalizando o tema Astra. Além disso, foi ensinado como aplicar efeitos de movimento e a internacionalização do projeto. O instrutor incentiva os espectadores a compartilharem o projeto no LinkedIn com a hashtag #aprendiNaAlura e a participarem da comunidade da Alura no Discord. O vídeo encerra com agradecimentos e a promessa de um próximo treinamento.
