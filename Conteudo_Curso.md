@@ -68,3 +68,35 @@ Aplicar práticas recomendadas para implementação de responsividade em um proj
 
 Nesta aula, aprendemos a aplicar o modo noturno, também conhecido como dark mode, em um projeto WordPress. Foi explicado como utilizar o plugin "WP Dark Mode" para ativar o dark mode de forma fácil e rápida, sem a necessidade de inserir código CSS diretamente no Elementor. Também vimos como personalizar a transição suave do modo noturno e alterar a posição do botão de dark mode na página. Ao final, concluímos que o modo noturno foi aplicado com sucesso no projeto.
 
+### Aula 04 - Animações com Elementor - Video 2
+
+Nesta aula, o instrutor ensina como aplicar efeitos de movimento aos elementos de um projeto utilizando o Elementor no WordPress. Ele demonstra como aplicar animações aos cartões de oferta da semana, escolhendo a direção em que eles aparecem. Além disso, ele mostra como aplicar animações aos botões "Saiba mais" presentes nos cartões de destinos populares. O instrutor também menciona a possibilidade de aplicar as animações de forma responsiva, escolhendo em quais dispositivos elas serão exibidas. No final, ele incentiva os alunos a explorarem mais animações no projeto.
+
+### Aula 04 Conclusão - Nessa aula, você aprendeu como
+
+Utilizar o recurso de plugins do Wordpress para implementar efeito de modo noturno em um projeto;
+Aplicar efeitos de movimento de forma responsiva em um projeto, utilizando do recurso nativo do Elementor.
+
+## Aula 05 - Explorendo funcionalidades com plugins
+
+### Aula 05 - Plugin de Whatsapp - Video 1
+
+Nesta aula, o instrutor ensina como adicionar um botão de WhatsApp em um site WordPress utilizando plugins. Ele mostra o processo de instalação do plugin **Joinchat** e como configurá-lo. Além disso, o instrutor dá uma dica de como alterar a posição do botão utilizando código CSS. Por fim, ele destaca a importância desse recurso e menciona que no próximo vídeo será ensinado como manter elementos fixos na página.
+
+### Aula 05 - Fixando Menu - Video 2
+
+Nesta aula, o instrutor ensina como adicionar um menu fixo em um site utilizando um plugin no WordPress. Ele explica que o plugin **"Sticky Menu & Sticky Header"** é responsável por deixar um elemento fixo na tela e mostra como configurá-lo. O instrutor também mostra como encontrar a classe do elemento do menu utilizando a ferramenta de inspeção do navegador. Ao final, o menu fica fixo no site sem a necessidade de utilizar CSS.
+
+### Aula 05 - Para saber mais: Wordpress - Publicando projeto em hospedagem privada
+
+[Alura+: WordPress e Hospedagem Privada: publique seu projeto com segurança e desempenho](https://cursos.alura.com.br/extra/alura-mais/wordpress-e-hospedagem-privada-publique-seu-projeto-com-seguranca-e-desempenho-c2346)
+Sites Free:
+[Wordpress](https://wordpress.com/pt-br/pricing/)
+[000webhost](https://www.000webhost.com/?__cf_chl_tk=xkLcH5av8.JfIcRC.VbEwu_j.A4Hj0c_n9nRScBFnng-1699286620-0-gaNycGzNESU)
+[InfinityFree](https://www.infinityfree.com/)
+
+### Aula 05 Conclusão - Nessa aula, você aprendeu como
+
+Aplicar funcionalidade de Whatsapp em um projeto Wordpress utilizando um plugin;
+Aplicar efeito visual de menu fixo na tela utilizando de plugins do Wordpress;
+Inserir código CSS adicional em um projeto em caso de ajustes necessários.
